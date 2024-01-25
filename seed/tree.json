@@ -1,0 +1,134 @@
+[
+{
+    "model": "tree.category",
+    "pk": 1,
+    "fields": {
+        "path": "0004",
+        "depth": 1,
+        "numchild": 3,
+        "name": "Computer Hardware",
+        "description": "Hardware of a computer"
+    }
+},
+{
+    "model": "tree.category",
+    "pk": 2,
+    "fields": {
+        "path": "00040005",
+        "depth": 2,
+        "numchild": 3,
+        "name": "Memory",
+        "description": ""
+    }
+},
+{
+    "model": "tree.category",
+    "pk": 3,
+    "fields": {
+        "path": "00040008",
+        "depth": 2,
+        "numchild": 2,
+        "name": "Storage",
+        "description": ""
+    }
+},
+{
+    "model": "tree.category",
+    "pk": 4,
+    "fields": {
+        "path": "000400080003",
+        "depth": 3,
+        "numchild": 0,
+        "name": "SSD",
+        "description": ""
+    }
+},
+{
+    "model": "tree.category",
+    "pk": 5,
+    "fields": {
+        "path": "000400050001",
+        "depth": 3,
+        "numchild": 0,
+        "name": "Desktop Memory",
+        "description": ""
+    }
+},
+{
+    "model": "tree.category",
+    "pk": 6,
+    "fields": {
+        "path": "000400050002",
+        "depth": 3,
+        "numchild": 0,
+        "name": "Laptop Memory",
+        "description": ""
+    }
+},
+{
+    "model": "tree.category",
+    "pk": 7,
+    "fields": {
+        "path": "000400050003",
+        "depth": 3,
+        "numchild": 0,
+        "name": "Server Memory",
+        "description": ""
+    }
+},
+{
+    "model": "tree.category",
+    "pk": 11,
+    "fields": {
+        "path": "000400020002",
+        "depth": 3,
+        "numchild": 0,
+        "name": "Mouse",
+        "description": ""
+    }
+},
+{
+    "model": "tree.category",
+    "pk": 12,
+    "fields": {
+        "path": "00040002",
+        "depth": 2,
+        "numchild": 1,
+        "name": "External",
+        "description": ""
+    }
+},
+{
+    "model": "tree.category",
+    "pk": 13,
+    "fields": {
+        "path": "0006",
+        "depth": 1,
+        "numchild": 1,
+        "name": "Software",
+        "description": "Something totally different"
+    }
+},
+{
+    "model": "tree.category",
+    "pk": 14,
+    "fields": {
+        "path": "00060003",
+        "depth": 2,
+        "numchild": 0,
+        "name": "Mine Sweeper",
+        "description": ""
+    }
+},
+{
+    "model": "tree.category",
+    "pk": 15,
+    "fields": {
+        "path": "000400080002",
+        "depth": 3,
+        "numchild": 0,
+        "name": "HDD",
+        "description": ""
+    }
+}
+]
